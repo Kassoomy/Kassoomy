@@ -4,7 +4,8 @@
 
 :world_map: Available remotely  <br />
 :email: Email: [juangalle0018@gmail.com](juangalle0018@gmail.com)  <br />
-:briefcase: LinkedIn: [Juan Gallego](https://www.linkedin.com/in/juan-david-gallego-196397b9/)
+:briefcase: LinkedIn: [Juan Gallego](https://www.linkedin.com/in/juan-david-gallego-196397b9/) <br />
+:card_index_dividers: Portfolio: [Quick projects](https://github.com/Kassoomy/Portfolio)
 
 ## :mage_man: About Me
 
