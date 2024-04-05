@@ -8,7 +8,7 @@
 
 ## About Me
 
-M.S. Data scientist with a background in both marketing and finances, with more than 6 years of experience, known for my methodical approach and organizational abilities. I have a natural inclination towards inquiry, and I’m deeply committed to continuous learning, always seeking to expand my knowledge base. My expertise lies in contextualizing data to generate meaningful analyses and valuable insights, a capability I leverage to drive informed decision making.
+M.S. Data scientist with a background in both marketing and finances, with more than 6 years of experience, known for my methodical approach and organizational abilities. I have a natural inclination towards inquiry, and I’m deeply committed to continuous learning.
 
 ## Technical Skills
 
