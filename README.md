@@ -2,8 +2,8 @@
 
 # :brain: Data Scientist 
 
-:world_map: available remotely 
-:email: Email: [juangalle0018@gmail.com](juangalle0018@gmail.com)
+:world_map: available remotely  <br />
+:email: Email: [juangalle0018@gmail.com](juangalle0018@gmail.com)  <br />
 :briefcase: LinkedIn: [Juan Gallego](https://www.linkedin.com/in/juan-david-gallego-196397b9/)
 
 ## About Me
